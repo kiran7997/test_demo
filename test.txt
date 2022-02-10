@@ -1,0 +1,34 @@
+Hello  world
+
+git commands
+
+
+git config --global user.name "kiran7997"
+git config --global user.email "kiran.lagshetti@iping.in"
+
+git branch
+git clone 
+git checkout branch_name
+git branch new_branch_name
+git checkout -b new_branch_name
+git log
+git clean
+
+git help
+
+git init
+git 
+
+git status
+git add app/Http/Controllers/PropertyController.php
+git commit -m "Total amount display changes"
+git push origin book_total_amt
+
+git checkout master
+git pull origin master
+git merge book_total_amt
+git push origin master
+git checkout book_total_amt
+
+git remote -v 
+git remote set-url origin https://github.com/stirredo/olive-react.git
